@@ -38,7 +38,7 @@ hallazgos.
 
 Por ello nuestra página muestra todas las animaciones y la información de estas (titulo, año de lanzamiento, director, productor y un resumen de cada una de ellas.) Además de ofrecer las opciones de filtrado, ordenado, búsqueda y porcentaje de películas estrenadas por década.
 
-###Diseño de la Interfaz de Usuario
+### Diseño de la Interfaz de Usuario
 
 #### Prototipo de baja fidelidad
 
