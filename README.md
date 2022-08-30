@@ -17,7 +17,7 @@ Esta página web permite **visualizar la data, filtrarla, ordenarla y hacer alg�
 Con cálculo agregado nos referimos a mostrar información aún más relevante para los usuarios
 (porcentaje de películas estrenadas por década).
   
-###Definición del producto
+### Definición del producto
 
 El usuario desea familiarizarce con las películas del estudio japonés Ghibli. De todo este fandom hay un grupo que desea poder
 interactuar y ver la información de las animaciones.
